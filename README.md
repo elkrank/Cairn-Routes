@@ -10,6 +10,12 @@ The website entails the ability to show a picture of any route, the name of the 
 
 If you want to contribute a route that you don't see on the site, join [The Game Bakers' Discord](https://discord.gg/thegamebakers) for the community discussion on routes.
 
+## Features in the Future
+
+* Random route button
+* Suggested route to try next based on location and difficulty (community driven suggestions)
+* Voting on difficulty of the route
+
 ## Authors
 
-Pluxate
+Pluxate - My code is very beginner, please be kind.
