@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>About</title>
+    <link rel="icon" type="image/x-icon" href="./imgs/favicon.ico">
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/stylesheet.css" rel="stylesheet">
+  </head>
+  <body style="background-color: #ffffdf">
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #312f32;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <img src="./imgs/favicon.ico" alt="Image of three pitons" width="24" height="24" class="d-inline-block align-text-top">
+          Cairn Routes
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="./index">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./all-routes">All Routes</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/pluxate/Cairn-Routes">GitHub</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://buymeacoffee.com/pluxate">Donate</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="row">
+      <div class="container-fluid">
+        <div class="row mt-3">
+          <div class="col-9 center textbody">
+            <h3 style="text-align: center">Future Updates</h4>
+            <ul>
+              <li>Search function</li>
+                <ul>
+                  <li>Be able to search for a route by name</li>
+                </ul>
+              <li>Rate a route</li>
+                <ul>
+                  <li>Be able to give a thumbs up, thumbs down or maybe rate whether it was harder or easier than the given difficulty</li>
+                </ul>
+              <li>Get a random route</li>
+                <ul>
+                  <li>Press a button to get sent to a random route page</li>
+                </ul>
+              <li>Suggested route</li>
+                <ul>
+                  <li>Have a button to take you to the next route the community suggests based on location and difficulty of the route you're on currently</li>
+                </ul>
+              <li>Full map view</li>
+                <ul>
+                  <li>Be able to see the map of Kami (and other mountains hopefully) and have clickable areas where you can zoom in (refresh page with new image) and see a whole wall and then have clickable routes on the wall to take you to that route</li>
+                </ul>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
