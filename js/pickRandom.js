@@ -22,6 +22,10 @@ async function getRandomRoute() {
         return getRandomRoute()
     }
 
-    console.log(randomPage.slice(1))
-    window.location.href = randomPage.slice(1)
+    // Navigate to the root directory
+    const subdomain = /:\/\/[^\/]+(.*)$/.exec(currentPage)[1];
+    const sublevels = (subdomain.match(/\//g) || []).length - 1;
+    const directoryNaviation = "/..".repeat(sublevels);
+
+    window.location.href = directoryNaviation + randomPage
 }
