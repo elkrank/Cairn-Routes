@@ -8,23 +8,20 @@ async function getRandomRoute() {
     const parser = new DOMParser();
     const doc = parser.parseFromString(text, 'text/html');
     const links = Array
-        .from(doc.querySelectorAll('a[href^="./routes/"]'))
+        .from(doc.querySelectorAll('a[href^="/routes/"]'))
         .map(a => a.getAttribute('href'));
 
     // Choose a random page from list
     const rng = Math.floor(Math.random() * links.length)
     const randomPage = links[rng]
 
-    // "./routes/Chocolate-Chimney.html" -> "Chocolate-Chimney"
+    // "/routes/Chocolate-Chimney.html" -> "Chocolate-Chimney"
     const newRouteName = randomPage.split("/").pop().split(".")[0]
     const currentPage = window.location.href
     if (currentPage.includes(newRouteName)) {
         return getRandomRoute()
     }
 
-    if (window.location.href.includes("routes/")) {
-        window.location.href = "." + randomPage
-    } else {
-        window.location.href = randomPage
-    }
+    console.log(randomPage.slice(1))
+    window.location.href = randomPage.slice(1)
 }
