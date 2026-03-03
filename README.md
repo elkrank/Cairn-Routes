@@ -31,5 +31,5 @@ If you want to contribute a route that you don't see on the site, join [The Game
 
 ## Authors
 
-Pluxate
-jamoellm
+* Pluxate
+* jamoellm
