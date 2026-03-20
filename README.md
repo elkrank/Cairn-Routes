@@ -33,3 +33,4 @@ If you want to contribute a route that you don't see on the site, join [The Game
 
 * Pluxate
 * jamoellm
+* k3dz0r
