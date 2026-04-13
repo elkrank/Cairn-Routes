@@ -1726,13 +1726,13 @@ async function templateFill() {
   "Spear of Longinus":{
     "route_name":"Spear of Longinus",
     "route_location":"The Needle",
-    "route_description":"Start at the lowest edge you can stand on below the base of The Needle and make your way up making sure to stay on the outwards facing wall of the tower.  Watch out and avoid falling near the base so your send isn\u2019t interrupted (had to climb down couple of times to restart that portion). There are good holds scattered throughout the route, they\u2019re just slightly out of site. There were some brief sections where you have to arete up the wall. Make sure to reach the tip of the needle to complete the send! This can definitely be done without pitons (except the one used to rappel  down to the starting point).",
+    "route_description":"Start at the lowest edge you can stand on, below the base of The Needle, and make your way up until you reach a brief but challenging chimney right before reaching the base of the tower.  Once past that,  avoid falling near the platform at the base of the tower as the game teleports you to the nearest solid ground (had to climb down couple of times to restart that portion). Take your time then as the key move to begin the actual tower ascent involves laybacking up an arete that is almost out of reach, risking the aforementioned teleportation. <br><br>There are good holds scattered throughout the route afterwards, they’re just slightly out of sight, so use that camera to find them. Towards the latter portion of the ascent there are some sections where you have to layback up several different aretes, while also having to switch your position in ways that risk Aava just completely falling off the wall. It’ll pretty much be like this until the end so those I’d say those sections collectively make up crux #2. Move slowly and carefully as you reach the end. <br><br>Make sure to reach the tip of the needle to complete the send!",
     "first_ascent_name":"diegosg18",
     "first_ascent_date":"4\/6\/2026 23:18:53",
     "first_ascent_video_url":null,
     "first_redpoint_name":null,
     "first_redpoint_date":"",
-    "first_redpoint_video_url":"",
+    "first_redpoint_video_url":"https://youtu.be/nTgJPEo-VEk?si=lfX935ZMhV6MxpiL",
     "buffs":{
       "Burst":false,
       "Grip":false,
@@ -1770,7 +1770,7 @@ async function templateFill() {
     "first_ascent_video_url":null,
     "first_redpoint_name":null,
     "first_redpoint_date":"",
-    "first_redpoint_video_url":"",
+    "first_redpoint_video_url":"https://youtu.be/JG8wrpLU4Yw?si=Sv_E5s7IBsE-FE_b",
     "buffs":{
       "Burst":false,
       "Grip":false,
