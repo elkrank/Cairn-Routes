@@ -23,7 +23,13 @@ async function templateFill() {
     "first_redpoint_name":"Reynolds",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Pika-Pikachu.jpg"
   },
   "Delta":{
@@ -36,7 +42,13 @@ async function templateFill() {
     "first_redpoint_name":"Clip",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Delta.jpg"
   },
   "Graveyard Stomp":{
@@ -49,7 +61,13 @@ async function templateFill() {
     "first_redpoint_name":"Reynolds",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Graveyard-Stomp.jpg"
   },
   "Cookie Cutter":{
@@ -62,7 +80,13 @@ async function templateFill() {
     "first_redpoint_name":"\u0421\u0430\u0448\u043a\u0430 BruteForsic",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Burst, Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":true,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Cookie-Cutter.jpg"
   },
   "Obstinate":{
@@ -75,7 +99,13 @@ async function templateFill() {
     "first_redpoint_name":"ShockedHearts",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Obstinate.jpg"
   },
   "The Vampire":{
@@ -88,7 +118,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/The-Vampire.jpg"
   },
   "Tangent Whisper":{
@@ -101,7 +137,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Tangent-Whisper.jpg"
   },
   "Memorium":{
@@ -114,7 +156,13 @@ async function templateFill() {
     "first_redpoint_name":"BruteForsic",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Memorium.jpg"
   },
   "Karate Kid":{
@@ -127,7 +175,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Karate-Kid.jpg"
   },
   "Walk The Plank":{
@@ -140,7 +194,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Walk-The-Plank.jpg"
   },
   "Dracula":{
@@ -153,7 +213,13 @@ async function templateFill() {
     "first_redpoint_name":"BruteForsic",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Dracula.jpg"
   },
   "Cornered Fox":{
@@ -166,7 +232,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Cornered-Fox.jpg"
   },
   "Flow":{
@@ -179,7 +251,13 @@ async function templateFill() {
     "first_redpoint_name":"BruteForsic",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Flow.jpg"
   },
   "Deepwater Gecko":{
@@ -192,7 +270,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Deepwater-Gecko.jpg"
   },
   "Event Horizon":{
@@ -205,7 +289,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Event-Horizon.jpg"
   },
   "Reflection":{
@@ -218,7 +308,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Reflection.jpg"
   },
   "Angel Wings":{
@@ -231,7 +327,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Angel-Wings.jpg"
   },
   "Branching Out":{
@@ -244,7 +346,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Branching-Out.jpg"
   },
   "Piranha":{
@@ -257,7 +365,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Piranha.jpg"
   },
   "What Piranha?":{
@@ -270,7 +384,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/What-Piranha?.jpg"
   },
   "The Hangover":{
@@ -283,7 +403,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/The-Hangover.jpg"
   },
   "The Maw":{
@@ -296,7 +422,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/The-Maw.jpg"
   },
   "Widowmaker":{
@@ -309,7 +441,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Widowmaker.jpg"
   },
   "The White Spider":{
@@ -322,7 +460,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/The-White-Spider.jpg"
   },
   "The Black Death":{
@@ -335,7 +479,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/The-Black-Death.jpg"
   },
   "End of The World":{
@@ -348,7 +498,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/End-of-The-World.jpg"
   },
   "Snake Eater":{
@@ -361,7 +517,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Snake-Eater.jpg"
   },
   "Gravity":{
@@ -374,7 +536,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Gravity.jpg"
   },
   "Body Horror":{
@@ -387,7 +555,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Burst, Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":true,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Body-Horror.jpg"
   },
   "The Herbalist":{
@@ -400,7 +574,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/The-Herbalist.jpg"
   },
   "Because It's There":{
@@ -413,7 +593,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Because-It_s-There.jpg"
   },
   "Defiance":{
@@ -426,7 +612,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Defiance.jpg"
   },
   "Stardust":{
@@ -439,7 +631,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Stardust.jpg"
   },
   "Baby Steps":{
@@ -452,7 +650,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Baby-Steps.jpg"
   },
   "The Grandfather Flake":{
@@ -465,7 +669,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/The-Grandfather-Flake.jpg"
   },
   "Tombstone":{
@@ -478,7 +688,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Tombstone.jpg"
   },
   "Cutthroat":{
@@ -491,7 +707,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Cutthroat.jpg"
   },
   "Sharkfin":{
@@ -504,7 +726,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Sharkfin.jpg"
   },
   "North by Northwest":{
@@ -517,7 +745,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/North-by-Northwest.jpg"
   },
   "West by Southeast":{
@@ -530,7 +764,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/West-by-Southeast.jpg"
   },
   "Edward Bear":{
@@ -543,7 +783,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Edward-Bear.jpg"
   },
   "North by Northeast":{
@@ -556,7 +802,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/North-by-Northeast.jpg"
   },
   "Wall #7":{
@@ -569,7 +821,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Wall-#7.jpg"
   },
   "Maple Fudge":{
@@ -582,7 +840,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Maple-Fudge.jpg"
   },
   "The Canister":{
@@ -595,7 +859,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/The-Canister.jpg"
   },
   "El Bordillo Chico":{
@@ -608,7 +878,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/El-Bordillo-Chico.jpg"
   },
   "Blue and Yellow":{
@@ -621,7 +897,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Blue-and-Yellow.jpg"
   },
   "Koi No Taki-Nobori":{
@@ -634,7 +916,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Koi-No-Taki-Nobori.jpg"
   },
   "Shower":{
@@ -647,7 +935,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Shower.jpg"
   },
   "The Clue":{
@@ -660,7 +954,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/The-Clue.jpg"
   },
   "Dry Waterfall":{
@@ -673,7 +973,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Dry-Waterfall.jpg"
   },
   "The Lockpick":{
@@ -686,7 +992,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/The-Lockpick.jpg"
   },
   "Between Gym Wall 5 and Gym Wall 4":{
@@ -699,7 +1011,13 @@ async function templateFill() {
     "first_redpoint_name":"natiboigaming",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Between-Gym-Wall-5-and-Gym-Wall-4.jpg"
   },
   "Gym Wall 0.5 (left facing face of Wall 1) ":{
@@ -712,7 +1030,13 @@ async function templateFill() {
     "first_redpoint_name":"natiboigaming",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Gym-Wall-0.5-(left-facing-face-of-Wall-1)-.jpg"
   },
   "Gym Wall 2.2 (left side of Wall #2)":{
@@ -725,7 +1049,13 @@ async function templateFill() {
     "first_redpoint_name":"natiboigaming",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Gym-Wall-2.2-(left-side-of-Wall-#2).jpg"
   },
   "Gym Wall 2.3 (Right facing side of Wall #2)":{
@@ -738,7 +1068,13 @@ async function templateFill() {
     "first_redpoint_name":"natiboigaming",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Gym-Wall-2.3-(Right-facing-side-of-Wall-#2).jpg"
   },
   "Window cleaner":{
@@ -751,7 +1087,13 @@ async function templateFill() {
     "first_redpoint_name":"Ottolando",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Window-cleaner.jpg"
   },
   "Orthanc":{
@@ -764,7 +1106,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Orthanc.jpg"
   },
   "Death zone":{
@@ -777,7 +1125,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Burst, Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":true,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Death-zone.jpg"
   },
   "Snowman":{
@@ -790,7 +1144,13 @@ async function templateFill() {
     "first_redpoint_name":"Ottolando",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Snowman.jpg"
   },
   "Crack Gorilla":{
@@ -803,7 +1163,13 @@ async function templateFill() {
     "first_redpoint_name":"Buckett",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Crack-Gorilla.jpg"
   },
   "The Coffin":{
@@ -816,7 +1182,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/The-Coffin.jpg"
   },
   "The Nail":{
@@ -829,7 +1201,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Burst, Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":true,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/The-Nail.jpg"
   },
   "Upstream Dihedral":{
@@ -842,7 +1220,13 @@ async function templateFill() {
     "first_redpoint_name":"ManInAWhiteSuit",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Upstream-Dihedral.jpg"
   },
   "Tarantula":{
@@ -855,7 +1239,13 @@ async function templateFill() {
     "first_redpoint_name":"BruteForsic",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Tarantula.jpg"
   },
   "Crown of Thorns":{
@@ -868,7 +1258,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Crown-of-Thorns.jpg"
   },
   "What A Thrill...":{
@@ -881,7 +1277,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/What-A-Thrill....jpg"
   },
   "Cobra Cross":{
@@ -894,7 +1296,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Cobra-Cross.jpg"
   },
   "Wild Garlic":{
@@ -907,7 +1315,13 @@ async function templateFill() {
     "first_redpoint_name":"IDK",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Wild-Garlic.jpg"
   },
   "Eau Rouge":{
@@ -920,7 +1334,13 @@ async function templateFill() {
     "first_redpoint_name":"Virgil",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Eau-Rouge.jpg"
   },
   "With Teeth":{
@@ -933,7 +1353,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/With-Teeth.jpg"
   },
   "Tell No Tales":{
@@ -946,7 +1372,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Tell-No-Tales.jpg"
   },
   "Davy Jones\u2019 Locker":{
@@ -959,7 +1391,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Davy-Jones\u2019-Locker.jpg"
   },
   "Garrador":{
@@ -972,7 +1410,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Garrador.jpg"
   },
   "The Jackal":{
@@ -985,7 +1429,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/The-Jackal.jpg"
   },
   "Hades":{
@@ -998,7 +1448,13 @@ async function templateFill() {
     "first_redpoint_name":"Himalaya Lone Wolf ",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":false,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Hades.jpg"
   },
   "Frostbite ":{
@@ -1011,7 +1467,13 @@ async function templateFill() {
     "first_redpoint_name":"Himalaya Lone Wolf ",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":false,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Frostbite-.jpg"
   },
   "Farsighted StalecFright":{
@@ -1024,7 +1486,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":false,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Farsighted-StalecFright.jpg"
   },
   "Shepherd's Folly":{
@@ -1037,7 +1505,13 @@ async function templateFill() {
     "first_redpoint_name":"Kennedy",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":null,
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":false,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Shepherd_s-Folly.jpg"
   },
   "Cascading Remembrance ":{
@@ -1050,7 +1524,13 @@ async function templateFill() {
     "first_redpoint_name":"diegosg18",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Cascading-Remembrance-.jpg"
   },
   "Pika Tower":{
@@ -1063,7 +1543,13 @@ async function templateFill() {
     "first_redpoint_name":"First Redpoint: diegosg18",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Pika-Tower.jpg"
   },
   "Bear with me":{
@@ -1076,7 +1562,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Bear-with-me.jpg"
   },
   "Pooh Bear":{
@@ -1089,7 +1581,13 @@ async function templateFill() {
     "first_redpoint_name":"diegosg18",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Pooh-Bear.jpg"
   },
   "Makoto":{
@@ -1102,7 +1600,13 @@ async function templateFill() {
     "first_redpoint_name":"diegosg18",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Makoto.jpg"
   },
   "Soft Paw":{
@@ -1115,7 +1619,13 @@ async function templateFill() {
     "first_redpoint_name":"Holynder",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Soft-Paw.jpg"
   },
   "Stuck Between a Rock and a Hard Place":{
@@ -1128,7 +1638,13 @@ async function templateFill() {
     "first_redpoint_name":"diegosg18",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Stuck-Between-a-Rock-and-a-Hard-Place.jpg"
   },
   "The Pass of Caradhras ":{
@@ -1141,7 +1657,13 @@ async function templateFill() {
     "first_redpoint_name":"diegosg18",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/The-Pass-of-Caradhras-.jpg"
   },
   "Side Winder":{
@@ -1154,7 +1676,13 @@ async function templateFill() {
     "first_redpoint_name":"natiboigaming",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Side-Winder.jpg"
   },
   "Durin\u2019s Bane":{
@@ -1167,7 +1695,13 @@ async function templateFill() {
     "first_redpoint_name":"diegosg18",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Durin\u2019s-Bane.jpg"
   },
   "Atlas":{
@@ -1180,7 +1714,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Atlas.jpg"
   },
   "Spear of Longinus":{
@@ -1193,7 +1733,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Spear-of-Longinus.jpg"
   },
   "Inquisition":{
@@ -1206,7 +1752,13 @@ async function templateFill() {
     "first_redpoint_name":"\u0421\u0430\u0448\u043a\u0430",
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Burst, Chalk, Focus, Grip, Grit",
+    "buffs":{
+      "Burst":true,
+      "Grip":true,
+      "Focus":true,
+      "Chalk":true,
+      "Grit":true
+    },
     "img_path":"\/imgs\/Inquisition.jpg"
   },
   "Cascada":{
@@ -1219,7 +1771,13 @@ async function templateFill() {
     "first_redpoint_name":null,
     "first_redpoint_date":"",
     "first_redpoint_video_url":"",
-    "buffs":"Chalk",
+    "buffs":{
+      "Burst":false,
+      "Grip":false,
+      "Focus":false,
+      "Chalk":true,
+      "Grit":false
+    },
     "img_path":"\/imgs\/Cascada.jpg"
   }
 }
@@ -1228,24 +1786,22 @@ async function templateFill() {
   var routeID = localStorage.getItem("routeID");
   localStorage.clear();
   buffs = "";
-  if (!content[routeID].buffs === null) {
-    if (content[routeID].buffs.contains("Burst")) {
-      buffs += "<img src=\"/imgs/burst.png\" alt=\"Burst buff\">";
-    }
-    if (content[routeID].buffs.contains("Grip")) {
-      buffs += "<img src=\"/imgs/grip.png\" alt=\"Grip buff\">";
-    }
-    if (content[routeID].buffs.contains("Focus")) {
-      buffs += "<img src=\"/imgs/focus.png\" alt=\"Focus buff\">";
-    }
-    if (content[routeID].buffs.contains("Chalk")) {
-      buffs += "<img src=\"/imgs/extra_grip.png\" alt=\"Chalk bag\">";
-    }
-    if (content[routeID].buffs.contains("Grit")) {
-      buffs += "<img src=\"/imgs/grit.png\" alt=\"Grit buff\">";
-    }
+  if (content[routeID].buffs['Burst'] === true) {
+    buffs += "<img src=\"/imgs/burst.png\" alt=\"Burst buff\">";
   }
-  else {
+  if (content[routeID].buffs['Grip'] === true) {
+    buffs += "<img src=\"/imgs/grip.png\" alt=\"Grip buff\">";
+  }
+  if (content[routeID].buffs['Focus'] === true) {
+    buffs += "<img src=\"/imgs/focus.png\" alt=\"Focus buff\">";
+  }
+  if (content[routeID].buffs['Chalk'] === true) {
+    buffs += "<img src=\"/imgs/extra_grip.png\" alt=\"Chalk bag\">";
+  }
+  if (content[routeID].buffs['Grit'] === true) {
+    buffs += "<img src=\"/imgs/grit.png\" alt=\"Grit buff\">";
+  }
+  if (buffs === "") {
     buffs += "<img src=\"/imgs/none.png\" alt=\"Crossed through circle\">";
   }
   document.getElementById('route-title').innerHTML = content[routeID].route_name;
