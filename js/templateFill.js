@@ -10,7 +10,13 @@ async function templateFill() {
     "first_redpoint_name": "Dragos",
     "first_redpoint_date": "2026-02-10",
     "first_redpoint_video_url": "",
-    "buffs": { "burst": false, "grip": true, "focus": true, "chalk": true, "grit": true },
+    "buffs": { 
+      "Burst": false, 
+      "Grip": true, 
+      "Focus": true, 
+      "Chalk": true, 
+      "Grit": true 
+    },
     "img_path": "/imgs/Alphane.jpg"
   },
   "Pika Pikachu":{
