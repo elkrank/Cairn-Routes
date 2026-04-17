@@ -1,6 +1,6 @@
 (function() {
     const STORAGE_KEY = "allRoutes";
-
+    console.log("Initializing session...");
     content = {
         "Alphane": {
             "route_name": "Alphane",
