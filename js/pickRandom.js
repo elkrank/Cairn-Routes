@@ -5,6 +5,7 @@ async function getRandomRoute() {
     ];
 
     let allRoutesDocument = null;
+    let resolvedAllRoutesUrl = null;
 
     for (const candidateUrl of allRoutesCandidates) {
         try {
@@ -20,6 +21,7 @@ async function getRandomRoute() {
 
             if (doc.querySelector("a[href*='routes/']")) {
                 allRoutesDocument = doc;
+                resolvedAllRoutesUrl = response.url || candidateUrl.href;
                 break;
             }
         } catch (error) {
@@ -37,7 +39,7 @@ async function getRandomRoute() {
         .map((a) => a.getAttribute("href"))
         .filter((href) => typeof href === "string")
         .filter((href) => href.includes("routes/"))
-        .map((href) => new URL(href, document.baseURI));
+        .map((href) => new URL(href, resolvedAllRoutesUrl));
 
     if (links.length === 0) {
         console.warn("No route links found in all-routes.html");
