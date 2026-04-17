@@ -8,7 +8,7 @@ async function getRandomRoute() {
     const parser = new DOMParser();
     const doc = parser.parseFromString(text, 'text/html');
     const links = Array
-        .from(doc.querySelectorAll('a[href^="/"]'))
+        .from(doc.querySelectorAll('a[href^="/route.html?id="]'))
         .map(a => a.getAttribute('href'));
 
     // Choose a random page from list
