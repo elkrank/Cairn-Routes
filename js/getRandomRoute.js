@@ -15,9 +15,11 @@ async function getRandomRoute() {
     const rng = Math.floor(Math.random() * links.length)
     const randomPage = links[rng]
 
-    // "/routes/Chocolate-Chimney.html" -> "Chocolate-Chimney"
-    const newRouteName = randomPage.split("/").pop().split(".")[0]
+    // "/routes/route.html?id=Spider Legs" -> "Spider Legs"
+    const newRouteName = randomPage.split("?id=").pop()
     const currentPage = window.location.href
+    console.log("Current page:", currentPage)
+    console.log("New route name:", newRouteName)
     if (currentPage.includes(newRouteName)) {
         return getRandomRoute()
     }
