@@ -1,12 +1,39 @@
 async function getRandomRoute() {
-    const response = await fetch(new URL("all-routes.html", document.baseURI));
-    const text = await response.text();
+    const allRoutesCandidates = [
+        new URL("all-routes.html", document.baseURI),
+        new URL("../all-routes.html", document.baseURI),
+    ];
 
-    // Parse the page as HTML and get all route links.
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(text, "text/html");
+    let allRoutesDocument = null;
+
+    for (const candidateUrl of allRoutesCandidates) {
+        try {
+            const response = await fetch(candidateUrl);
+
+            if (!response.ok) {
+                continue;
+            }
+
+            const text = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, "text/html");
+
+            if (doc.querySelector("a[href*='routes/']")) {
+                allRoutesDocument = doc;
+                break;
+            }
+        } catch (error) {
+            // Ignore invalid candidate and keep trying next path.
+        }
+    }
+
+    if (!allRoutesDocument) {
+        console.warn("Unable to load all-routes.html for random route selection.");
+        return;
+    }
+
     const links = Array
-        .from(doc.querySelectorAll("a[href]"))
+        .from(allRoutesDocument.querySelectorAll("a[href]"))
         .map((a) => a.getAttribute("href"))
         .filter((href) => typeof href === "string")
         .filter((href) => href.includes("routes/"))
