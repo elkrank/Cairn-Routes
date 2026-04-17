@@ -1028,8 +1028,8 @@
             },
             "img_path":"\/imgs\/Between-Gym-Wall-5-and-Gym-Wall-4.jpg"
         },
-        "Gym Wall 0.5 (left facing face of Wall 1) ":{
-            "route_name":"Gym Wall 0.5 (left facing face of Wall 1) ",
+        "Gym Wall 0.5 (left facing face of Wall 1)":{
+            "route_name":"Gym Wall 0.5 (left facing face of Wall 1)",
             "route_location":"Tenzen",
             "route_description":"HUG the side walls of the column. Keep your feet as high as possible, and your arms extended as possible, as you shimmy up the column. Drive power from your feet and stablize with your arms.\n\nMove slowly, but maintain a steady flow to make it to the top before losing grip. The route is very quick, yet challenging, and it allows NO PITONS.",
             "first_ascent_name":"natiboigaming",
@@ -1465,8 +1465,8 @@
             },
             "img_path":"\/imgs\/Hades.jpg"
         },
-        "Frostbite ":{
-            "route_name":"Frostbite ",
+        "Frostbite":{
+            "route_name":"Frostbite",
             "route_location":"Kami",
             "route_description":"This route is the hardest and longest on ice nearby kami south-east face avoiding the last save point.\nIt's pure ice climbing for 98% and 2% dry (at the top mainly)\n90% of the way is blank blue ice.\nSo aim the edge of the ice volume to find holds.\nCrampons zip almost all the way, use  hard strikes.\nConsidering the long time needed to climb it, and conditions there, you must use grit to avoid death by cold or thirst ",
             "first_ascent_name":"Himalaya Lone Wolf ",
@@ -1522,8 +1522,8 @@
             },
             "img_path":"\/imgs\/Shepherd_s-Folly.jpg"
         },
-        "Cascading Remembrance ":{
-            "route_name":"Cascading Remembrance ",
+        "Cascading Remembrance":{
+            "route_name":"Cascading Remembrance",
             "route_location":"The Arch",
             "route_description":"Route isn\u2019t super tricky. The section in\/behind the waterfall was a bit tricky but mostly due to the visibility. ",
             "first_ascent_name":"diegosg18",
@@ -1655,8 +1655,8 @@
             },
             "img_path":"\/imgs\/Stuck-Between-a-Rock-and-a-Hard-Place.jpg"
         },
-        "The Pass of Caradhras ":{
-            "route_name":"The Pass of Caradhras ",
+        "The Pass of Caradhras":{
+            "route_name":"The Pass of Caradhras",
             "route_location":"The Two Hundred Steps",
             "route_description":"Straightforward route for the most part. Avoid the platform at all costs as it\u2019ll interrupt the route. Consequently, the transition from the first half to the second half is the trickiest section. I used chalk but it\u2019s really not needed (I just like chalking dem hands\ud83d\udc4f\ud83c\udffd)",
             "first_ascent_name":"diegosg18",
