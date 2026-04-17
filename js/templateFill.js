@@ -17,7 +17,7 @@ async function templateFill() {
       "Chalk": true, 
       "Grit": true 
     },
-    "img_path": "/imgs/Alphane.jpg"
+    "img_path": "../imgs/Alphane.jpg"
   },
   "Pika Pikachu":{
     "route_name":"Pika Pikachu",
@@ -36,7 +36,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Pika-Pikachu.jpg"
+    "img_path":"../imgs/Pika-Pikachu.jpg"
   },
   "Delta":{
     "route_name":"Delta",
@@ -55,7 +55,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Delta.jpg"
+    "img_path":"../imgs/Delta.jpg"
   },
   "Graveyard Stomp":{
     "route_name":"Graveyard Stomp",
@@ -74,7 +74,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Graveyard-Stomp.jpg"
+    "img_path":"../imgs/Graveyard-Stomp.jpg"
   },
   "Cookie Cutter":{
     "route_name":"Cookie Cutter",
@@ -93,7 +93,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Cookie-Cutter.jpg"
+    "img_path":"../imgs/Cookie-Cutter.jpg"
   },
   "Obstinate":{
     "route_name":"Obstinate",
@@ -112,7 +112,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Obstinate.jpg"
+    "img_path":"../imgs/Obstinate.jpg"
   },
   "The Vampire":{
     "route_name":"The Vampire",
@@ -131,7 +131,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/The-Vampire.jpg"
+    "img_path":"../imgs/The-Vampire.jpg"
   },
   "Tangent Whisper":{
     "route_name":"Tangent Whisper",
@@ -150,7 +150,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Tangent-Whisper.jpg"
+    "img_path":"../imgs/Tangent-Whisper.jpg"
   },
   "Memorium":{
     "route_name":"Memorium",
@@ -169,7 +169,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Memorium.jpg"
+    "img_path":"../imgs/Memorium.jpg"
   },
   "Karate Kid":{
     "route_name":"Karate Kid",
@@ -188,7 +188,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Karate-Kid.jpg"
+    "img_path":"../imgs/Karate-Kid.jpg"
   },
   "Walk The Plank":{
     "route_name":"Walk The Plank",
@@ -207,7 +207,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Walk-The-Plank.jpg"
+    "img_path":"../imgs/Walk-The-Plank.jpg"
   },
   "Dracula":{
     "route_name":"Dracula",
@@ -226,7 +226,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Dracula.jpg"
+    "img_path":"../imgs/Dracula.jpg"
   },
   "Cornered Fox":{
     "route_name":"Cornered Fox",
@@ -245,7 +245,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Cornered-Fox.jpg"
+    "img_path":"../imgs/Cornered-Fox.jpg"
   },
   "Flow":{
     "route_name":"Flow",
@@ -264,7 +264,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Flow.jpg"
+    "img_path":"../imgs/Flow.jpg"
   },
   "Deepwater Gecko":{
     "route_name":"Deepwater Gecko",
@@ -283,7 +283,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Deepwater-Gecko.jpg"
+    "img_path":"../imgs/Deepwater-Gecko.jpg"
   },
   "Event Horizon":{
     "route_name":"Event Horizon",
@@ -302,7 +302,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Event-Horizon.jpg"
+    "img_path":"../imgs/Event-Horizon.jpg"
   },
   "Reflection":{
     "route_name":"Reflection",
@@ -321,7 +321,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Reflection.jpg"
+    "img_path":"../imgs/Reflection.jpg"
   },
   "Angel Wings":{
     "route_name":"Angel Wings",
@@ -340,7 +340,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Angel-Wings.jpg"
+    "img_path":"../imgs/Angel-Wings.jpg"
   },
   "Branching Out":{
     "route_name":"Branching Out",
@@ -359,7 +359,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Branching-Out.jpg"
+    "img_path":"../imgs/Branching-Out.jpg"
   },
   "Piranha":{
     "route_name":"Piranha",
@@ -378,7 +378,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Piranha.jpg"
+    "img_path":"../imgs/Piranha.jpg"
   },
   "What Piranha?":{
     "route_name":"What Piranha?",
@@ -397,7 +397,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/What-Piranha?.jpg"
+    "img_path":"../imgs/What-Piranha?.jpg"
   },
   "The Hangover":{
     "route_name":"The Hangover",
@@ -416,7 +416,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/The-Hangover.jpg"
+    "img_path":"../imgs/The-Hangover.jpg"
   },
   "The Maw":{
     "route_name":"The Maw",
@@ -435,7 +435,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/The-Maw.jpg"
+    "img_path":"../imgs/The-Maw.jpg"
   },
   "Widowmaker":{
     "route_name":"Widowmaker",
@@ -454,7 +454,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Widowmaker.jpg"
+    "img_path":"../imgs/Widowmaker.jpg"
   },
   "The White Spider":{
     "route_name":"The White Spider",
@@ -473,7 +473,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/The-White-Spider.jpg"
+    "img_path":"../imgs/The-White-Spider.jpg"
   },
   "The Black Death":{
     "route_name":"The Black Death",
@@ -492,7 +492,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/The-Black-Death.jpg"
+    "img_path":"../imgs/The-Black-Death.jpg"
   },
   "End of The World":{
     "route_name":"End of The World",
@@ -511,7 +511,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/End-of-The-World.jpg"
+    "img_path":"../imgs/End-of-The-World.jpg"
   },
   "Snake Eater":{
     "route_name":"Snake Eater",
@@ -530,7 +530,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Snake-Eater.jpg"
+    "img_path":"../imgs/Snake-Eater.jpg"
   },
   "Gravity":{
     "route_name":"Gravity",
@@ -549,7 +549,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Gravity.jpg"
+    "img_path":"../imgs/Gravity.jpg"
   },
   "Body Horror":{
     "route_name":"Body Horror",
@@ -568,7 +568,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Body-Horror.jpg"
+    "img_path":"../imgs/Body-Horror.jpg"
   },
   "The Herbalist":{
     "route_name":"The Herbalist",
@@ -587,7 +587,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/The-Herbalist.jpg"
+    "img_path":"../imgs/The-Herbalist.jpg"
   },
   "Because It's There":{
     "route_name":"Because It's There",
@@ -606,7 +606,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Because-It_s-There.jpg"
+    "img_path":"../imgs/Because-It_s-There.jpg"
   },
   "Defiance":{
     "route_name":"Defiance",
@@ -625,7 +625,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Defiance.jpg"
+    "img_path":"../imgs/Defiance.jpg"
   },
   "Stardust":{
     "route_name":"Stardust",
@@ -644,7 +644,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Stardust.jpg"
+    "img_path":"../imgs/Stardust.jpg"
   },
   "Baby Steps":{
     "route_name":"Baby Steps",
@@ -663,7 +663,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Baby-Steps.jpg"
+    "img_path":"../imgs/Baby-Steps.jpg"
   },
   "The Grandfather Flake":{
     "route_name":"The Grandfather Flake",
@@ -682,7 +682,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/The-Grandfather-Flake.jpg"
+    "img_path":"../imgs/The-Grandfather-Flake.jpg"
   },
   "Tombstone":{
     "route_name":"Tombstone",
@@ -701,7 +701,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Tombstone.jpg"
+    "img_path":"../imgs/Tombstone.jpg"
   },
   "Cutthroat":{
     "route_name":"Cutthroat",
@@ -720,7 +720,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Cutthroat.jpg"
+    "img_path":"../imgs/Cutthroat.jpg"
   },
   "Sharkfin":{
     "route_name":"Sharkfin",
@@ -739,7 +739,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Sharkfin.jpg"
+    "img_path":"../imgs/Sharkfin.jpg"
   },
   "North by Northwest":{
     "route_name":"North by Northwest",
@@ -758,7 +758,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/North-by-Northwest.jpg"
+    "img_path":"../imgs/North-by-Northwest.jpg"
   },
   "West by Southeast":{
     "route_name":"West by Southeast",
@@ -777,7 +777,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/West-by-Southeast.jpg"
+    "img_path":"../imgs/West-by-Southeast.jpg"
   },
   "Edward Bear":{
     "route_name":"Edward Bear",
@@ -796,7 +796,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Edward-Bear.jpg"
+    "img_path":"../imgs/Edward-Bear.jpg"
   },
   "North by Northeast":{
     "route_name":"North by Northeast",
@@ -815,7 +815,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/North-by-Northeast.jpg"
+    "img_path":"../imgs/North-by-Northeast.jpg"
   },
   "Wall #7":{
     "route_name":"Wall #7",
@@ -834,7 +834,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Wall-#7.jpg"
+    "img_path":"../imgs/Wall-#7.jpg"
   },
   "Maple Fudge":{
     "route_name":"Maple Fudge",
@@ -853,7 +853,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Maple-Fudge.jpg"
+    "img_path":"../imgs/Maple-Fudge.jpg"
   },
   "The Canister":{
     "route_name":"The Canister",
@@ -872,7 +872,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/The-Canister.jpg"
+    "img_path":"../imgs/The-Canister.jpg"
   },
   "El Bordillo Chico":{
     "route_name":"El Bordillo Chico",
@@ -891,7 +891,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/El-Bordillo-Chico.jpg"
+    "img_path":"../imgs/El-Bordillo-Chico.jpg"
   },
   "Blue and Yellow":{
     "route_name":"Blue and Yellow",
@@ -910,7 +910,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Blue-and-Yellow.jpg"
+    "img_path":"../imgs/Blue-and-Yellow.jpg"
   },
   "Koi No Taki-Nobori":{
     "route_name":"Koi No Taki-Nobori",
@@ -929,7 +929,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Koi-No-Taki-Nobori.jpg"
+    "img_path":"../imgs/Koi-No-Taki-Nobori.jpg"
   },
   "Shower":{
     "route_name":"Shower",
@@ -948,7 +948,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Shower.jpg"
+    "img_path":"../imgs/Shower.jpg"
   },
   "The Clue":{
     "route_name":"The Clue",
@@ -967,7 +967,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/The-Clue.jpg"
+    "img_path":"../imgs/The-Clue.jpg"
   },
   "Dry Waterfall":{
     "route_name":"Dry Waterfall",
@@ -986,7 +986,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Dry-Waterfall.jpg"
+    "img_path":"../imgs/Dry-Waterfall.jpg"
   },
   "The Lockpick":{
     "route_name":"The Lockpick",
@@ -1005,7 +1005,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/The-Lockpick.jpg"
+    "img_path":"../imgs/The-Lockpick.jpg"
   },
   "Between Gym Wall 5 and Gym Wall 4":{
     "route_name":"Between Gym Wall 5 and Gym Wall 4",
@@ -1024,7 +1024,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Between-Gym-Wall-5-and-Gym-Wall-4.jpg"
+    "img_path":"../imgs/Between-Gym-Wall-5-and-Gym-Wall-4.jpg"
   },
   "Gym Wall 0.5 (left facing face of Wall 1) ":{
     "route_name":"Gym Wall 0.5 (left facing face of Wall 1) ",
@@ -1043,7 +1043,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Gym-Wall-0.5-(left-facing-face-of-Wall-1)-.jpg"
+    "img_path":"../imgs/Gym-Wall-0.5-(left-facing-face-of-Wall-1)-.jpg"
   },
   "Gym Wall 2.2 (left side of Wall #2)":{
     "route_name":"Gym Wall 2.2 (left side of Wall #2)",
@@ -1062,7 +1062,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Gym-Wall-2.2-(left-side-of-Wall-#2).jpg"
+    "img_path":"../imgs/Gym-Wall-2.2-(left-side-of-Wall-#2).jpg"
   },
   "Gym Wall 2.3 (Right facing side of Wall #2)":{
     "route_name":"Gym Wall 2.3 (Right facing side of Wall #2)",
@@ -1081,7 +1081,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Gym-Wall-2.3-(Right-facing-side-of-Wall-#2).jpg"
+    "img_path":"../imgs/Gym-Wall-2.3-(Right-facing-side-of-Wall-#2).jpg"
   },
   "Window cleaner":{
     "route_name":"Window cleaner",
@@ -1100,7 +1100,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Window-cleaner.jpg"
+    "img_path":"../imgs/Window-cleaner.jpg"
   },
   "Orthanc":{
     "route_name":"Orthanc",
@@ -1119,7 +1119,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Orthanc.jpg"
+    "img_path":"../imgs/Orthanc.jpg"
   },
   "Death zone":{
     "route_name":"Death zone",
@@ -1138,7 +1138,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Death-zone.jpg"
+    "img_path":"../imgs/Death-zone.jpg"
   },
   "Snowman":{
     "route_name":"Snowman",
@@ -1157,7 +1157,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Snowman.jpg"
+    "img_path":"../imgs/Snowman.jpg"
   },
   "Crack Gorilla":{
     "route_name":"Crack Gorilla",
@@ -1176,7 +1176,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Crack-Gorilla.jpg"
+    "img_path":"../imgs/Crack-Gorilla.jpg"
   },
   "The Coffin":{
     "route_name":"The Coffin",
@@ -1195,7 +1195,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/The-Coffin.jpg"
+    "img_path":"../imgs/The-Coffin.jpg"
   },
   "The Nail":{
     "route_name":"The Nail",
@@ -1214,7 +1214,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/The-Nail.jpg"
+    "img_path":"../imgs/The-Nail.jpg"
   },
   "Upstream Dihedral":{
     "route_name":"Upstream Dihedral",
@@ -1233,7 +1233,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Upstream-Dihedral.jpg"
+    "img_path":"../imgs/Upstream-Dihedral.jpg"
   },
   "Tarantula":{
     "route_name":"Tarantula",
@@ -1252,7 +1252,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Tarantula.jpg"
+    "img_path":"../imgs/Tarantula.jpg"
   },
   "Crown of Thorns":{
     "route_name":"Crown of Thorns",
@@ -1271,7 +1271,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Crown-of-Thorns.jpg"
+    "img_path":"../imgs/Crown-of-Thorns.jpg"
   },
   "What A Thrill...":{
     "route_name":"What A Thrill...",
@@ -1290,7 +1290,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/What-A-Thrill....jpg"
+    "img_path":"../imgs/What-A-Thrill....jpg"
   },
   "Cobra Cross":{
     "route_name":"Cobra Cross",
@@ -1309,7 +1309,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Cobra-Cross.jpg"
+    "img_path":"../imgs/Cobra-Cross.jpg"
   },
   "Wild Garlic":{
     "route_name":"Wild Garlic",
@@ -1328,7 +1328,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Wild-Garlic.jpg"
+    "img_path":"../imgs/Wild-Garlic.jpg"
   },
   "Eau Rouge":{
     "route_name":"Eau Rouge",
@@ -1347,7 +1347,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Eau-Rouge.jpg"
+    "img_path":"../imgs/Eau-Rouge.jpg"
   },
   "With Teeth":{
     "route_name":"With Teeth",
@@ -1366,7 +1366,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/With-Teeth.jpg"
+    "img_path":"../imgs/With-Teeth.jpg"
   },
   "Tell No Tales":{
     "route_name":"Tell No Tales",
@@ -1385,7 +1385,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Tell-No-Tales.jpg"
+    "img_path":"../imgs/Tell-No-Tales.jpg"
   },
   "Davy Jones\u2019 Locker":{
     "route_name":"Davy Jones\u2019 Locker",
@@ -1404,7 +1404,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Davy-Jones\u2019-Locker.jpg"
+    "img_path":"../imgs/Davy-Jones\u2019-Locker.jpg"
   },
   "Garrador":{
     "route_name":"Garrador",
@@ -1423,7 +1423,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Garrador.jpg"
+    "img_path":"../imgs/Garrador.jpg"
   },
   "The Jackal":{
     "route_name":"The Jackal",
@@ -1442,7 +1442,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/The-Jackal.jpg"
+    "img_path":"../imgs/The-Jackal.jpg"
   },
   "Hades":{
     "route_name":"Hades",
@@ -1461,7 +1461,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":true
     },
-    "img_path":"\/imgs\/Hades.jpg"
+    "img_path":"../imgs/Hades.jpg"
   },
   "Frostbite ":{
     "route_name":"Frostbite ",
@@ -1480,7 +1480,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":true
     },
-    "img_path":"\/imgs\/Frostbite-.jpg"
+    "img_path":"../imgs/Frostbite-.jpg"
   },
   "Farsighted StalecFright":{
     "route_name":"Farsighted StalecFright",
@@ -1499,7 +1499,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Farsighted-StalecFright.jpg"
+    "img_path":"../imgs/Farsighted-StalecFright.jpg"
   },
   "Shepherd's Folly":{
     "route_name":"Shepherd's Folly",
@@ -1518,7 +1518,7 @@ async function templateFill() {
       "Chalk":false,
       "Grit":false
     },
-    "img_path":"\/imgs\/Shepherd_s-Folly.jpg"
+    "img_path":"../imgs/Shepherd_s-Folly.jpg"
   },
   "Cascading Remembrance ":{
     "route_name":"Cascading Remembrance ",
@@ -1537,7 +1537,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Cascading-Remembrance-.jpg"
+    "img_path":"../imgs/Cascading-Remembrance-.jpg"
   },
   "Pika Tower":{
     "route_name":"Pika Tower",
@@ -1556,7 +1556,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Pika-Tower.jpg"
+    "img_path":"../imgs/Pika-Tower.jpg"
   },
   "Bear with me":{
     "route_name":"Bear with me",
@@ -1575,7 +1575,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Bear-with-me.jpg"
+    "img_path":"../imgs/Bear-with-me.jpg"
   },
   "Pooh Bear":{
     "route_name":"Pooh Bear",
@@ -1594,7 +1594,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Pooh-Bear.jpg"
+    "img_path":"../imgs/Pooh-Bear.jpg"
   },
   "Makoto":{
     "route_name":"Makoto",
@@ -1613,7 +1613,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Makoto.jpg"
+    "img_path":"../imgs/Makoto.jpg"
   },
   "Soft Paw":{
     "route_name":"Soft Paw",
@@ -1632,7 +1632,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Soft-Paw.jpg"
+    "img_path":"../imgs/Soft-Paw.jpg"
   },
   "Stuck Between a Rock and a Hard Place":{
     "route_name":"Stuck Between a Rock and a Hard Place",
@@ -1651,7 +1651,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Stuck-Between-a-Rock-and-a-Hard-Place.jpg"
+    "img_path":"../imgs/Stuck-Between-a-Rock-and-a-Hard-Place.jpg"
   },
   "The Pass of Caradhras ":{
     "route_name":"The Pass of Caradhras ",
@@ -1670,7 +1670,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/The-Pass-of-Caradhras-.jpg"
+    "img_path":"../imgs/The-Pass-of-Caradhras-.jpg"
   },
   "Side Winder":{
     "route_name":"Side Winder",
@@ -1689,7 +1689,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Side-Winder.jpg"
+    "img_path":"../imgs/Side-Winder.jpg"
   },
   "Durin\u2019s Bane":{
     "route_name":"Durin\u2019s Bane",
@@ -1708,7 +1708,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Durin\u2019s-Bane.jpg"
+    "img_path":"../imgs/Durin\u2019s-Bane.jpg"
   },
   "Atlas":{
     "route_name":"Atlas",
@@ -1727,7 +1727,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Atlas.jpg"
+    "img_path":"../imgs/Atlas.jpg"
   },
   "Spear of Longinus":{
     "route_name":"Spear of Longinus",
@@ -1746,7 +1746,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Spear-of-Longinus.jpg"
+    "img_path":"../imgs/Spear-of-Longinus.jpg"
   },
   "Inquisition":{
     "route_name":"Inquisition",
@@ -1765,7 +1765,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":true
     },
-    "img_path":"\/imgs\/Inquisition.jpg"
+    "img_path":"../imgs/Inquisition.jpg"
   },
   "Cascada":{
     "route_name":"Cascada",
@@ -1784,7 +1784,7 @@ async function templateFill() {
       "Chalk":true,
       "Grit":false
     },
-    "img_path":"\/imgs\/Cascada.jpg"
+    "img_path":"../imgs/Cascada.jpg"
   }
 }
 
