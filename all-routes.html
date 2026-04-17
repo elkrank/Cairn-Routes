@@ -48,6 +48,17 @@
     <div class="row justify-content-center">
       <div class="container-fluid">
         <div class="col-md-6 textbody mt-3 mb-3 mx-auto">
+          <div class="row g-2 align-items-end mb-3">
+            <div class="col-12 col-md-8">
+              <label for="area-filter" class="form-label mb-1"><strong>Filter by area</strong></label>
+              <select id="area-filter" class="form-select">
+                <option value="">All areas</option>
+              </select>
+            </div>
+            <div class="col-12 col-md-4 d-grid">
+              <button id="reset-area-filter" type="button" class="btn btn-outline-secondary">Reset filter</button>
+            </div>
+          </div>
           <table class="sortable table table-responsive">
             <colgroup>
               <col span="1" width=fit-content>
@@ -646,6 +657,37 @@
         </div>
       </div>
     </div>
+    <script>
+      (function () {
+        const filterSelect = document.getElementById("area-filter");
+        const resetButton = document.getElementById("reset-area-filter");
+        const rows = Array.from(document.querySelectorAll("tbody tr"));
+
+        const areas = Array.from(new Set(rows.map((row) => row.cells[1]?.textContent.trim()).filter(Boolean)))
+          .sort((a, b) => a.localeCompare(b));
+
+        for (const area of areas) {
+          const option = document.createElement("option");
+          option.value = area;
+          option.textContent = area;
+          filterSelect.appendChild(option);
+        }
+
+        function applyAreaFilter() {
+          const selectedArea = filterSelect.value;
+          for (const row of rows) {
+            const rowArea = row.cells[1]?.textContent.trim();
+            row.style.display = selectedArea === "" || rowArea === selectedArea ? "" : "none";
+          }
+        }
+
+        filterSelect.addEventListener("change", applyAreaFilter);
+        resetButton.addEventListener("click", function () {
+          filterSelect.value = "";
+          applyAreaFilter();
+        });
+      })();
+    </script>
     <script src="js/storeRoute.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/pickRandom.js"></script>
