@@ -1787,6 +1787,1336 @@
             "Grit":false
             },
             "img_path":"\/imgs\/Cascada.jpg"
+        },
+        "A Not So Easy Start": {
+            "route_name": "A Not So Easy Start",
+            "route_location": "The Twisted Ridge",
+            "route_description": "Start: Start by climbing up right to the mountain side Bivouac site when starting the game. Climb on top of the ledge above it and begin working your way up the ridge on the right, making use of the edge as hand and foot holds. <br> <br> First Crux: When a third into the vines climb to the right and up under the petruding boulder, using the small ledge as a foot hold. Getting under neath this boulder is difficult, but provides a good rest and chalk up spot. <br> <br> Second Crux: Now feet are established, you must traverse left and do the splits to establish your left foot in the crack on the main route (left of the vines). <br> <br> Top Out: Follow the left hand side of the vines, using the petruding ridge as hand holds. This is relatively easy climbing.",
+            "first_ascent_name": "FencyJake",
+            "first_ascent_date": "14/2/2026",
+            "first_ascent_video_url": "https://www.youtube.com/embed/watch?v=9icw6w_DSeM",
+            "first_redpoint_name": "FencyJake",
+            "first_redpoint_date": "14/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/A-Not-So-Easy-Start.jpg"
+        },
+        "Angel Wings": {
+            "route_name": "Angel Wings",
+            "route_location": "The Mirror",
+            "route_description": "This route begins on the slab at the bottom of the far west end of The Two-Hundred steps. Traverse the slab far left toward a small ledge about ten feet below the rather ominous overhanging flake. It's a hellish flake that's quite slippery, but at least the view is heavenly.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Angel-Wings.jpg"
+        },
+        "Baby Steps": {
+            "route_name": "Baby Steps",
+            "route_location": "The Child",
+            "route_description": "This short route begins on the slab to the far right of The Child area. It is the perfect place to practice slab and arete climbing.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "ManInAWhiteSuit",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Baby-Steps.jpg"
+        },
+        "Bear-A-Chute": {
+            "route_name": "Bear-A-Chute",
+            "route_location": "The Child",
+            "route_description": "Follow the innerwall at the bottom, be careful at the transition, Aava's limbs like to get funky",
+            "first_ascent_name": "Katiee",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Bear-A-Chute.jpg"
+        },
+        "Between Gym Wall 5 and Gym Wall 4": {
+            "route_name": "Between Gym Wall 5 and Gym Wall 4",
+            "route_location": "Tenzen",
+            "route_description": "Keep your hands in front of you or on the side walls near the corners. Keep your feet as high as possible, and your arms bent.  Don't rush, move slowly, but FEEL FREE to stop and shake out to regain stamina, the route is very taxing.   The following changes are all recommended but not required: - Disable Survival mode - Mod for unlimited chalk (chalk won't deplete) If not, feel free to reload the save when your needs deplete.",
+            "first_ascent_name": "natiboigaming",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "https://www.twitch.tv/videos/2719105314",
+            "first_redpoint_name": "natiboigaming",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Between-Gym-Wall-5-and-Gym-Wall-4.jpg"
+        },
+        "Big Frank": {
+            "route_name": "Big Frank",
+            "route_location": "The Terraces",
+            "route_description": "Getting to the start is a little tricky, you likely will have to rappel down to access it.",
+            "first_ascent_name": "Noxia",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Big-Frank.jpg"
+        },
+        "Blue and Yellow": {
+            "route_name": "Blue and Yellow",
+            "route_location": "The Village",
+            "route_description": "Go straight up from the save point. Expect vertical edges.",
+            "first_ascent_name": "yked",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Blue-and-Yellow.jpg"
+        },
+        "Body Horror": {
+            "route_name": "Body Horror",
+            "route_location": "The Peril",
+            "route_description": "To the furthest left of The Peril there are massive stalactites. This route goes beneath the stalactites and up the left side.  Begin by heading up a wide diagonal crack into a dihedral. At the highest point in the dihedral, place a piton, then lower down and swing to the bottom of the stalactite on your left.  Traverse to this stalactite's left side and climb until the crack ends in a point. Place another piton here and again, swing to the bottom of the stalactite on the left. (Read Glitch Note!)  Traverse to this stalactite's left side and climb up until you can transfer to the stalactite on the right.  This stalactite leads into a chimney. DO NOT go inside the chimney! Instead, go onto the next stalactite's arete and traverse to the left side.  This final arete is the final stretch. Climb all the way up to finish at The Dome.  It is likely impossible to climb this without pitons.  GLITCH NOTE: Be careful about rappelling down from pitons, you may glitch into the mountain. If you do, simply ascend back up immediately. Do not continue rappelling.  AID NOTE: Aid routes are intended to be completed in 6 pitons only.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": true,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Body-Horror.jpg"
+        },
+        "Branching Out": {
+            "route_name": "Branching Out",
+            "route_location": "The Mirror",
+            "route_description": "This short route climbs the face beside the broken ladder at the far east end of The Two-Hundred Steps.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "ManInAWhiteSuit",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Branching-Out.jpg"
+        },
+        "Change": {
+            "route_name": "Change",
+            "route_location": "The Vault",
+            "route_description": "After the roof, the route shares ending with Silence.",
+            "first_ascent_name": "Lime",
+            "first_ascent_date": "7/2/2026",
+            "first_ascent_video_url": "https://youtube.com/embed/eGTD8dCf4VA?si=vbzIDFaP_ZX-bS5F",
+            "first_redpoint_name": "Lime",
+            "first_redpoint_date": "7/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Change.jpg"
+        },
+        "Chocolate Chimney": {
+            "route_name": "Chocolate Chimney",
+            "route_location": "Two Hundred Steps",
+            "route_description": "N/A",
+            "first_ascent_name": "Maninawhitesuit",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Maninawhitesuit",
+            "first_redpoint_date": "10/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Chocolate-Chimney.jpg"
+        },
+        "Cornered Fox": {
+            "route_name": "Cornered Fox",
+            "route_location": "The Waterfall",
+            "route_description": "Begin up \"The Jackal\" but instead of exiting out right through the slab's vertical crack, start up the slab and then cut left across a series of vertical cracks. You'll eventually come to a resting point above a double crack system. Here you must downclimb about fifteen feet left to another outcropping. Once there, traverse around the arete and climb up over a roof toward the final crack on the right. This will lead you up and out of the arch. \"A cornered fox is more dangerous than a jackal.\"",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Cornered-Fox.jpg"
+        },
+        "Crack Monkey": {
+            "route_name": "Crack Monkey",
+            "route_location": "The Shortcut",
+            "route_description": "Follow the crack and don't rest for too long.",
+            "first_ascent_name": "Bleezy",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Crack-Monkey.jpg"
+        },
+        "Crackman": {
+            "route_name": "Crackman",
+            "route_location": "The Ancient",
+            "route_description": "",
+            "first_ascent_name": "Katiee",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Crackman.jpg"
+        },
+        "Creeping Death": {
+            "route_name": "Creeping Death",
+            "route_location": "The Escarpment",
+            "route_description": "The route starts on a small invisible rail with hand holds but no foot holds. Therefore, you must scramble up to get to where you can first place down your feet and rest. After that, you move through the bushes, carefully climbing up the crack to reach the final corner where you top out.",
+            "first_ascent_name": "duckburglar",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "duckburglar",
+            "first_redpoint_date": "6/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Creeping-Death.jpg"
+        },
+        "Crossing the Cold": {
+            "route_name": "Crossing the Cold",
+            "route_location": "Sea of Seracs",
+            "route_description": "As a 360° traverse (clockwise) it start from the top of the Seracs and goes like \"the floor is lava\" but on ice. Some part are pure ice volumes, some part are climable classic ice. Enjoy it, if you fall the floor is not so far.",
+            "first_ascent_name": "Himalaya Lone Wolf",
+            "first_ascent_date": "11/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Unclaimed",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": true,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Crossing-the-Cold.jpg"
+        },
+        "Crown Chakra": {
+            "route_name": "Crown Chakra",
+            "route_location": "The Child",
+            "route_description": "Short boulder problem in the cave on top of The Child's head. Smear up into the crack then go feet first to the left.",
+            "first_ascent_name": "Virgil",
+            "first_ascent_date": "9/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Virgil",
+            "first_redpoint_date": "9/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Crown-Chakra.jpg"
+        },
+        "Dark Water": {
+            "route_name": "Dark Water",
+            "route_location": "The Secret",
+            "route_description": "Start from the water then only ice climbing on the left and right sides of the waterfall. Low visibility, and tricky ice parts.",
+            "first_ascent_name": "Himalaya Lone Wolf",
+            "first_ascent_date": "8/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Unclaimed",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Dark-Water.jpg"
+        },
+        "Deep Blue": {
+            "route_name": "Deep Blue",
+            "route_location": "Sea of Seracs",
+            "route_description": "It's supposed to be decoration but climbable, 3/4 of the route is pure slopers ice on a huge serac in the Sea of Seracs.",
+            "first_ascent_name": "Himalaya Lone Wolf",
+            "first_ascent_date": "8/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Deep-Blue.jpg"
+        },
+        "Defiance": {
+            "route_name": "Defiance",
+            "route_location": "The Village",
+            "route_description": "",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "https://www.youtube.com/watch?v=530kJDF3rDI",
+            "first_redpoint_name": "ManInAWhiteSuit",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Defiance.jpg"
+        },
+        "Delta": {
+            "route_name": "Delta",
+            "route_location": "The Child",
+            "route_description": "Fairly straight forward climb, but be careful of the middle where there is a slight overhang. That is where I needed chalk to get around and over it, and then continue on the route.",
+            "first_ascent_name": "Clip",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Clip",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Example.jpg"
+        },
+        "Dracula": {
+            "route_name": "Dracula",
+            "route_location": "The Split Rock",
+            "route_description": "Begin on \"The Vampire,\" but cut hard right, traversing beneath one roof to another that is nearer to the nose of Split Rock. Pull out of this roof and traverse to the arete on your right. Follow it and another up through the vines aiming to climb either the slab on the left of the Shark Fin or the left arete itself. You may also exit via the original Sharkfin slab on the right if you wish to enter The Trout Cave.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "BruteForsic",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Dracula.jpg"
+        },
+        "Dragrace": {
+            "route_name": "Dragrace",
+            "route_location": "The Standing Stones",
+            "route_description": "Straight up.",
+            "first_ascent_name": "Katiee",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Dragrace.jpg"
+        },
+        "Dry Waterfall": {
+            "route_name": "Dry Waterfall",
+            "route_location": "The Waterfall",
+            "route_description": "An easy route with one kinda tricky part with no holds closer to the top.",
+            "first_ascent_name": "yked",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Dry-Waterfall.jpg"
+        },
+        "East by Northwest": {
+            "route_name": "East by Northwest",
+            "route_location": "The Village",
+            "route_description": "Begins in the Northwest Dihedral and heads out right.",
+            "first_ascent_name": "Maninawhitesuit",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Maninawhitesuit",
+            "first_redpoint_date": "10/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/East-by-Northwest.jpg"
+        },
+        "Edge of the North": {
+            "route_name": "Edge of the North",
+            "route_location": "Sea of Seracs",
+            "route_description": "It starts at the bottom of the Serac edge. Aim the edge at the right of the main one. Go precisely, strike and up! Technical but easy one (Beginner friendly).",
+            "first_ascent_name": "Himalaya Lone Wolf",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": true,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Razor-Line-2.jpg"
+        },
+        "Edgerider": {
+            "route_name": "Edgerider",
+            "route_location": "The Village",
+            "route_description": "Go really slow, follow the edge thats sticking out.",
+            "first_ascent_name": "Katiee",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Unclaimed",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Edgerider.jpg"
+        },
+        "End of The World": {
+            "route_name": "End of The World",
+            "route_location": "The Palace of Winds",
+            "route_description": "At the far west end of the sanctuary is a flake. Traverse to the flake from the bottom of The Palace of Winds, and climb all the way up to where the final crack ends. Here, you will need to set a well-spaced piton to reach one of the cracks far above. It is recommended to aim for the crack on the right. From there, the route leads up into Body Horror... but it is also recommended to bail out right onto easier ground.  NOTE: Although this is a route that requires aid, it is possible to free-solo a portion of it by bailing to the right after the slab at the top of the first flake section.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/End-of-The-World.jpg"
+        },
+        "Event Horizon": {
+            "route_name": "Event Horizon",
+            "route_location": "The Vault",
+            "route_description": "This route leads straight up out of The Vault and traverses right at the rocks near the out-of-bounds reset. During the traverse right, you'll walk through this boundary and then forced to do a short downclimb to continue the traverse.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "ManInAWhiteSuit",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Event-Horizon.jpg"
+        },
+        "Forbidden Overhang": {
+            "route_name": "Forbidden Overhang",
+            "route_location": "The Ancient",
+            "route_description": "",
+            "first_ascent_name": "Dragos",
+            "first_ascent_date": "7/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Dragos",
+            "first_redpoint_date": "7/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Forbidden-Overhang.jpg"
+        },
+        "Freerider": {
+            "route_name": "Freerider",
+            "route_location": "The Ancient",
+            "route_description": "This route starts down at the lowest platform of The Ancient and snakes it's way up past The Palace of the Wind, The Peril, and on to the top of The Dome. Do NOT climb onto or rest on any ledges.",
+            "first_ascent_name": "Berillius",
+            "first_ascent_date": "11/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Virgil",
+            "first_redpoint_date": "15/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Freerider.jpg"
+        },
+        "Ghost Spine": {
+            "route_name": "Ghost Spine",
+            "route_location": "The Village",
+            "route_description": "Take it slow on the bottom, your hands will hold but you might have to try to place them a few times, do the first traverse a bit higher.",
+            "first_ascent_name": "Katiee",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Unclaimed",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Ghost-Spine.jpg"
+        },
+        "Goatturel": {
+            "route_name": "Goatturel",
+            "route_location": "The Vault",
+            "route_description": "Follows the purple route into the black route above the Shepherdess' cave. Not impossible without buffs but some chalk really helps you out.",
+            "first_ascent_name": "Pluxate",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Pluxate",
+            "first_redpoint_date": "6/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Goatturel.jpg"
+        },
+        "Gravity": {
+            "route_name": "Gravity",
+            "route_location": "The Shortcut",
+            "route_description": "This route climbs the massive slab on the far west side of the mountain. To get to the main slab, begin beyond the cableway station at a vertical crack beneath some vines. Climb up to the arete, then traverse left onto the slab covered in leaves. Follow this up and over the edge onto the main slab. Once on the slab, do your best to navigate the wall's bumps and dishes to reach the top. All holds are off route except for the topout.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "https://www.youtube.com/watch?v=YxY-xcXQhZ0",
+            "first_redpoint_name": "ManInAWhiteSuit",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Gravity.jpg"
+        },
+        "Hairpin": {
+            "route_name": "Hairpin",
+            "route_location": "The Escarpment",
+            "route_description": "The route begins with a hands-only rail that you must climb quickly to place your feet onto a small ledge in the middle of the route. From there, follow a smaller rail to the right and make the top out. Do not use the easy holds on the very left.",
+            "first_ascent_name": "duckburglar",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "duckburglar",
+            "first_redpoint_date": "6/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Hairpin.jpg"
+        },
+        "In-dome-itable": {
+            "route_name": "In-dome-itable",
+            "route_location": "The Dome",
+            "route_description": "Outside of dome on the side facing the Peril.",
+            "first_ascent_name": "Berillius",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/In-dome-itable.jpg"
+        },
+        "Inner Thoughts": {
+            "route_name": "Inner Thoughts",
+            "route_location": "The Dome",
+            "route_description": "Go up and onto the ceiling.  Once you reach the point marked with red arrows, transfer to the ceiling and do not use wall holds the rest of the way.  The route ends when both hands or both feet, whichever are LAST, reach the end of the long crack. <br> This is located inside dome along one of the hallway ceilings.",
+            "first_ascent_name": "Berillius",
+            "first_ascent_date": "7/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Inner-Thoughts.jpg"
+        },
+        "Jumbo Love": {
+            "route_name": "Jumbo Love",
+            "route_location": "The Village",
+            "route_description": "This overhanging arete testpiece starts on a ledge and ends under the arch ceiling. The route consists of steep vertical rail climbing on multiple aretes with wide gap transitions. A desperate push with little to no feet on most of the route. A full send to the top of the arch on the left side would be a next-level project.",
+            "first_ascent_name": "Azizi",
+            "first_ascent_date": "7/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Dragos",
+            "first_redpoint_date": "10/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Jumbo-Love.jpg"
+        },
+        "Jötnar": {
+            "route_name": "Jötnar",
+            "route_location": "The Blades",
+            "route_description": "",
+            "first_ascent_name": "Himalaya Lone Wolf",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": true,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Jötnar.jpg"
+        },
+        "Kite Runner": {
+            "route_name": "Kite Runner",
+            "route_location": "The Secret",
+            "route_description": "Avoid climbing onto any of the large ledges and breaking up the route.",
+            "first_ascent_name": "Berillius",
+            "first_ascent_date": "5/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Kite-Runner.jpg"
+        },
+        "Kite Topper": {
+            "route_name": "Kite Topper",
+            "route_location": "The Secret",
+            "route_description": "Add on to Kite Runner for an extra challenge of endurance (unsure if this can be done without stopping on a ledge).",
+            "first_ascent_name": "Berillius",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Kite-Topper.jpg"
+        },
+        "Landshark": {
+            "route_name": "Landshark",
+            "route_location": "The Escarpment",
+            "route_description": "A fairly simple climb that begins with a quick scramble up to the first ledge, on which rests a lightly colored bush. From there it proceeds diagonally, meeting with Creeping Death, to the final corner which is the top out.",
+            "first_ascent_name": "duckburglar",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "duckburglar",
+            "first_redpoint_date": "10/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Landshark.jpg"
+        },
+        "Littlefoot": {
+            "route_name": "Littlefoot",
+            "route_location": "The Dome",
+            "route_description": "Outside of dome on the side opposite the peril.",
+            "first_ascent_name": "Berillius",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Littlefoot.jpg"
+        },
+        "Lonely Forest": {
+            "route_name": "Lonely Forest",
+            "route_location": "The Sea of Seracs",
+            "route_description": "The route is located on the left side of the Sea of Seracs. To reach it, you must climb the small ridge. The route consists mostly of ice climbing, but there are also sections where you can grip the rock. In these parts, chalk is often helpful. On the right side, there are several ledges where you can stand up, but you can also continue without standing. The route ends at the very end of the ice field.",
+            "first_ascent_name": "Ottolando",
+            "first_ascent_date": "14/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Lonely-Forest.jpg"
+        },
+        "Looking Glass": {
+            "route_name": "Looking Glass",
+            "route_location": "The Escarpment",
+            "route_description": "There are very little rests on this route, even on the ledges where it seems possible. Take them where you can and conserve your stamina from there to get the top out.",
+            "first_ascent_name": "duckburglar",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "duckburglar",
+            "first_redpoint_date": "6/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Looking-Glass.jpg"
+        },
+        "Lynx's Journey": {
+            "route_name": "Lynx's Journey",
+            "route_location": "Climbing Gym",
+            "route_description": "Start on the left most landing of the outside stairs of the Wind Palace, end at the cave with the lynx origami. It's not an exact path to follow but the idea is going left from the landing a bit before heading up and to the right as much as possible, sidestepping when necessary.",
+            "first_ascent_name": "Pluxate",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Pluxate",
+            "first_redpoint_date": "6/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": true,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Lynx's-Journey.jpg"
+        },
+        "Mom Get Dkammcorder": {
+            "route_name": "Mom Get Dkammcorder",
+            "route_location": "",
+            "route_description": "The route is the roof portion featured in the picture, where Aava is climbing upside down. Anything before and after is is considered extensions or other routes.",
+            "first_ascent_name": "Azizi",
+            "first_ascent_date": "1/29/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "ix",
+            "first_redpoint_date": "1/30/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Mom-Get-DKammcorder.jpg"
+        },
+        "Piranha": {
+            "route_name": "Piranha",
+            "route_location": "The Secret",
+            "route_description": "Circumnavigate The Secret's left tower to get to the black slab on the back side. Ascend the right end of the slab whilst staying near the dihedral at all times.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Piranha.jpg"
+        },
+        "Razor Line": {
+            "route_name": "Razor Line",
+            "route_location": "Sea of Seracs",
+            "route_description": "It starts at the bottom of the Serac edge. Aim the edge at the right of the main one. Go precisely, strike and up! Technical but easy one (Beginner friendly).",
+            "first_ascent_name": "Himalaya Lone Wolf",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Unclaimed",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": true,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Razor-Line-2.jpg"
+        },
+        "Silence": {
+            "route_name": "Silence",
+            "route_location": "The Vault",
+            "route_description": "Resting fully is crucial if you are attempting to redpoint it buffless.",
+            "first_ascent_name": "Lime",
+            "first_ascent_date": "7/2/2026",
+            "first_ascent_video_url": "https://youtube.com/embed/eGTD8dCf4VA?si=vbzIDFaP_ZX-bS5F",
+            "first_redpoint_name": "Catwithajetpack",
+            "first_redpoint_date": "7/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Silence.jpg"
+        },
+        "Snake Eater": {
+            "route_name": "Snake Eater",
+            "route_location": "The Waterfall",
+            "route_description": "Begin above Backpack Ledge at the drawing from \"Adam and Maud.\" Head up the arete toward the crack system. Eventually you will reach the crux. This is the traverse right from the face into a crack and then the several feet of climbing that follows. Once through, you'll enter a series of cracks that become very awkward before the top.",
+            "first_ascent_name": "ManInAWhiteSuit",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "https://www.youtube.com/watch?v=WuE0dm2aVM4",
+            "first_redpoint_name": "ManInAWhiteSuit",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Snake-Eater.jpg"
+        },
+        "Snowman": {
+            "route_name": "Snowman",
+            "route_location": "The Sea of Seracs",
+            "route_description": "A short rock and ice climbing route. Not too difficult with chalk. Try to avoid the ledges in the wall so you don't accidentally stand up.",
+            "first_ascent_name": "Ottolando",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Ottolando",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Snowman.jpg"
+        },
+        "Spider Legs": {
+            "route_name": "Spider Legs",
+            "route_location": "The Escarpment",
+            "route_description": "Just need to be really fast and precise with the moves.",
+            "first_ascent_name": "ApoloMM",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "FencyJake",
+            "first_redpoint_date": "16/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Spider-Legs.jpg"
+        },
+        "Spiral": {
+            "route_name": "Spiral",
+            "route_location": "The Ancient",
+            "route_description": "Climbing from the landing above the front tree in a spiral manner up the wall to the major landing above. A Spiral Extended route is probably possible.",
+            "first_ascent_name": "Pluxate",
+            "first_ascent_date": "8/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Pluxate",
+            "first_redpoint_date": "8/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Spiral.jpg"
+        },
+        "Spiralling the Spire": {
+            "route_name": "Spiralling the Spire",
+            "route_location": "The Needle",
+            "route_description": "Start on the far side from the beaconhouse and climb up to the standable ledge with a nettle on it (the last bit requires some confident handwork and plenty of chalk) before working your way to the Edelweiss flower (pic 1). <br> <br> After that, work your way clockwise around the tower (grab the backpack along the way), avoiding the chimney as it's far too difficult to exit in my experience. Instead, keep going clockwise (pic 2), and work your way up, until you get to the next standable ledge, at which point you can either keep going clockwise (there seems to be a route that way but I can't verify for sure), or switch tack and start heading counterclockwise for a moment before powering straight up through a series of difficult overhangs and smooth regions.",
+            "first_ascent_name": "WizzyGirl",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "https://youtube.com/embed/eK5qmI249cM?si=gUX9i0-TYwA9wi0P",
+            "first_redpoint_name": "Maninawhitesuit",
+            "first_redpoint_date": "22/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Spiralling-the-Spire-2.jpg"
+        },
+        "Tangent Whisper": {
+            "route_name": "Tangent Whisper",
+            "route_location": "The Vault",
+            "route_description": "",
+            "first_ascent_name": "TugboatMassacre",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/Tangent-Whisper.jpg"
+        },
+        "TelTel Right Tower": {
+            "route_name": "TelTel Right Tower",
+            "route_location": "The Split Rock",
+            "route_description": "",
+            "first_ascent_name": "Jones",
+            "first_ascent_date": "8/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/TelTel-Right-Tower.jpg"
+        },
+        "TelTel": {
+            "route_name": "TelTel",
+            "route_location": "The Split Rock",
+            "route_description": "",
+            "first_ascent_name": "Rikke",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "FerrestWithASport",
+            "first_redpoint_date": "7/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/TelTel.jpg"
+        },
+        "The Black Raven": {
+            "route_name": "The Black Raven",
+            "route_location": "The Standing Stones",
+            "route_description": "Starts with a no-pitons area (hard rock) going through an under-hang (first crux). Then, after a small ascent and a short traverse with no holds, the second crux is a vertical channel using opposite forces with hands and feet. Finally, to finish the route, you need to step up a couple of meters with no holds, using adherence and leveraging the edge as much as possible.",
+            "first_ascent_name": "Daarmo_",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Virgil",
+            "first_redpoint_date": "13/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": true
+            },
+            "img_path": "/imgs/The-Black-Raven.jpg"
+        },
+        "The Brim": {
+            "route_name": "The Brim",
+            "route_location": "The Dome",
+            "route_description": "Outside of dome on the side facing the peril.",
+            "first_ascent_name": "Berillius",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/The-Brim.jpg"
+        },
+        "The Canister": {
+            "route_name": "The Canister",
+            "route_location": "Two Hundred Steps",
+            "route_description": "The route may be ascent or descent, depending on your playstyle. It is one of the shortest routes to and from the Ancient. Although it looks scary and presents an interesting challenge for new players, it is not very difficult.",
+            "first_ascent_name": "yked",
+            "first_ascent_date": "11/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "yked",
+            "first_redpoint_date": "21/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/The-Canister.jpg"
+        },
+        "The Clue": {
+            "route_name": "The Clue",
+            "route_location": "The Secret",
+            "route_description": "This is the safest way to reach the Secret if you are on a Free Solo run. First, a rather easy climb to a door on the right (taller) tower. Then, the Clue itself -- a very short and tricky wall inside that leads straight to the Secret.",
+            "first_ascent_name": "yked",
+            "first_ascent_date": "",
+            "first_ascent_video_url": "https://www.youtube.com/embed/watch?v=YGCyX1c3j4I",
+            "first_redpoint_name": "",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/The-Clue.jpg"
+        },
+        "The Great Roof": {
+            "route_name": "The Great Roof",
+            "route_location": "The Needle",
+            "route_description": "Goes from left of door directly up and out.",
+            "first_ascent_name": "Maninawhitesuit",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Virgil",
+            "first_redpoint_date": "11/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/The-Great-Roof.jpg"
+        },
+        "The Hook": {
+            "route_name": "The Hook",
+            "route_location": "The Escarpment",
+            "route_description": "The route starts on a hook in the wall, which you must first climb up to and pass by. It then continues upwards until you come to a flat stone--this can be walked on to the next part of the climb. From there, move left through the bushes and be sure to find rests whenever you can.",
+            "first_ascent_name": "duckburglar",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "duckburglar",
+            "first_redpoint_date": "6/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": ""
+        },
+        "The Kraken": {
+            "route_name": "The Kraken",
+            "route_location": "The Ancient",
+            "route_description": "",
+            "first_ascent_name": "Dragos",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "https://www.youtube.com/embed/chyvCZsshrU",
+            "first_redpoint_name": "Dragos",
+            "first_redpoint_date": "6/2/2026",
+            "first_redpoint_video_url": "https://www.youtube.com/embed/v=V1kiRrjdCNQ",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/The-Kraken.jpg"
+        },
+        "Thunderdome": {
+            "route_name": "Thunderdome",
+            "route_location": "The Dome",
+            "route_description": "Description",
+            "first_ascent_name": "Berillius",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Unclaimed",
+            "first_redpoint_date": "",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": true,
+                "Focus": true,
+                "Chalk": true,
+                "Grit": true
+            },
+            "img_path": "/imgs/Thunderdome.jpg"
+        },
+        "To The Falls We Go": {
+            "route_name": "To The Falls We Go",
+            "route_location": "The Split Rock",
+            "route_description": "",
+            "first_ascent_name": "Bleezy",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Bleezy",
+            "first_redpoint_date": "6/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/To-The-Falls-We-Go.jpg"
+        },
+        "Tomato": {
+            "route_name": "Tomato",
+            "route_location": "The Vault",
+            "route_description": "Back wall beneath the Shepherds house, just beside the tomatoes. Go straight up and out.",
+            "first_ascent_name": "Maninawhitesuit",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Maninawhitesuit",
+            "first_redpoint_date": "10/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Tomato.jpg"
+        },
+        "UnderRail": {
+            "route_name": "UnderRail",
+            "route_location": "The Arch",
+            "route_description": "",
+            "first_ascent_name": "Katiee",
+            "first_ascent_date": "6/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Maninawhitesuit",
+            "first_redpoint_date": "12/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Underrail.jpg"
+        },
+        "Waterfalling": {
+            "route_name": "Waterfalling",
+            "route_location": "The Waterfall",
+            "route_description": "Directly to the right of the main waterfall’s water. Tricky. Wet.",
+            "first_ascent_name": "Maninawhitesuit",
+            "first_ascent_date": "10/2/2026",
+            "first_ascent_video_url": "",
+            "first_redpoint_name": "Maninawhitesuit",
+            "first_redpoint_date": "10/2/2026",
+            "first_redpoint_video_url": "",
+            "buffs": {
+                "Burst": false,
+                "Grip": false,
+                "Focus": false,
+                "Chalk": false,
+                "Grit": false
+            },
+            "img_path": "/imgs/Waterfalling.jpg"
         }
     }
 
