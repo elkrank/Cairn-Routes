@@ -1,29 +1,28 @@
 async function getRandomRoute() {
-    // Page containing all routes
-    const isRoutePage = window.location.pathname.includes("/routes/")
-    const response = await fetch(isRoutePage ? "../all-routes.html" : "all-routes.html")
-    const text = await response.text()
+    const response = await fetch(new URL("all-routes.html", document.baseURI));
+    const text = await response.text();
 
-    // Parse the page as html and get all route links
+    // Parse the page as HTML and get all route links.
     const parser = new DOMParser();
-    const doc = parser.parseFromString(text, 'text/html');
+    const doc = parser.parseFromString(text, "text/html");
     const links = Array
-        .from(doc.querySelectorAll('a[href*="routes/"]'))
-        .map((a) => a.getAttribute('href'))
-        .filter(Boolean);
+        .from(doc.querySelectorAll("a[href]"))
+        .map((a) => a.getAttribute("href"))
+        .filter((href) => typeof href === "string")
+        .filter((href) => href.includes("routes/"))
+        .map((href) => new URL(href, document.baseURI));
 
-    // Choose a random page from list
-    const rng = Math.floor(Math.random() * links.length)
-    const randomPage = links[rng]
-
-    // "routes/Chocolate-Chimney.html" -> "Chocolate-Chimney"
-    const newRouteName = randomPage.split("/").pop().split(".")[0]
-    const currentPage = window.location.href
-    if (currentPage.includes(newRouteName)) {
-        return getRandomRoute()
+    if (links.length === 0) {
+        console.warn("No route links found in all-routes.html");
+        return;
     }
 
-    // Navigate while preserving compatibility for root pages and routes/* pages
-    const targetPath = isRoutePage ? `../${randomPage}` : randomPage
-    window.location.href = new URL(targetPath, window.location.href).href
+    const currentPageHref = window.location.href;
+    const candidateLinks = links.filter((url) => url.href !== currentPageHref);
+    const selectableLinks = candidateLinks.length > 0 ? candidateLinks : links;
+
+    const rng = Math.floor(Math.random() * selectableLinks.length);
+    const normalizedUrl = selectableLinks[rng];
+
+    window.location.assign(normalizedUrl.href);
 }
