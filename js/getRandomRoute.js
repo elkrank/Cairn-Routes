@@ -1,22 +1,11 @@
 
 async function getRandomRoute() {
-    // Page containg all routes
-    const response = await fetch("/pages/all-routes.html")
-    const text = await response.text()
+    const routes = JSON.parse(sessionStorage.getItem("allRoutes"));
+    const routeNames = Object.keys(routes)
 
-    // Parse the page as html and get all links
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(text, 'text/html');
-    const links = Array
-        .from(doc.querySelectorAll('a[href^="/pages/route.html?id="]'))
-        .map(a => a.getAttribute('href'));
+    const rng = Math.floor(Math.random() * routeNames.length)
+    const newRouteName = routeNames[rng]
 
-    // Choose a random page from list
-    const rng = Math.floor(Math.random() * links.length)
-    const randomPage = links[rng]
-
-    // "/pages/route.html?id=Spider Legs" -> "Spider Legs"
-    const newRouteName = randomPage.split("?id=").pop()
     const currentPage = window.location.href
     console.log("Current page:", currentPage)
     console.log("New route name:", newRouteName)
@@ -24,11 +13,9 @@ async function getRandomRoute() {
         return getRandomRoute()
     }
 
-    // Navigate to the root directory
-    const subDomain = /:\/\/[^\/]+(.*)$/.exec(currentPage)[1];
-    const subLevels = subDomain.match(/\//g)
-    const subLevelsCount = Math.max(subLevels.length - 1, 0);
-    const directoryNaviation = "/..".repeat(subLevelsCount);
+    const helper = !currentPage.includes("pages/") ? "pages/" : ""
+    const newUrl = new URL(helper + "route.html", window.location.href);
+    newUrl.searchParams.set("id", newRouteName);
 
-    window.location.href = directoryNaviation + randomPage
+    window.location.href = newUrl.href;
 }
